@@ -27,23 +27,13 @@
 ## <span style="color:#8c8b6e">🛠 My Skills</span>
 
 ### <span style="color:#8c8b6e">💻 Programming Languages, Frameworks, and Tools</span>
-<div align="center" style="background: linear-gradient(135deg, #fbf4d1 30%, #f8e8b5 100%); padding:20px; border-radius:15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); width:80%; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,unity,python,java,typescript,firebase,react,github,vscode,discord,php" />
+<div align="center" style="background-color:#fbf4d1; padding:10px; border-radius:8px;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,unity,python,java,typescript,firebase,react,github,vscode,discord,php" /> 
 </div>
 
 ### <span style="color:#8c8b6e">📚 Now Training</span>
-<div align="center" style="background: linear-gradient(135deg, #f8e8b5 30%, #fbf4d1 100%); padding:20px; border-radius:15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); width:80%; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=react,firebase,typescript,github" />
-</div>
-
----
-
-## <span style="color:#8c8b6e">🌟 Additional Skills</span>
-<div align="center" style="background-color:#f8e8b5; padding:10px; border-radius:15px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); width:80%; margin:10px;">
-    <p><strong>Database Management:</strong> MySQL, MongoDB, Firebase</p>
-    <p><strong>Version Control:</strong> Git, GitHub, GitLab</p>
-    <p><strong>UI/UX Design:</strong> Figma, Adobe XD, Sketch</p>
-    <p><strong>Game Development:</strong> Unity3D, Unreal Engine, C#</p>
+<div align="center" style="background-color:#fbf4d1; padding:10px; border-radius:8px;">
+    <img src="https://skillicons.dev/icons?i=react,firebase,typescript,github" /> 
 </div>
 
 ---
