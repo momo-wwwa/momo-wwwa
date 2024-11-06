@@ -4,6 +4,18 @@
     <img src="https://img.shields.io/badge/Background-%23fbf4d1?style=for-the-badge&labelColor=%23fbf4d1&color=%23fbf4d1" height="0" width="600px" />
 </div>
 
+## 📑 Table of Contents
+- [🍑 About Me 🍑](#-about-me-)
+- [🛠 My Skills](#-my-skills)
+  - [💻 Programming Languages, Frameworks, and Tools](#-programming-languages-frameworks-and-tools)
+  - [📚 Now Training](#-now-training)
+- [📈 My GitHub Activity](#-my-github-activity)
+- [🚀 Projects and Accomplishments](#-projects-and-accomplishments)
+- [🌐 Social Links](#-social-links)
+- [📬 Contact Me](#-contact-me)
+
+---
+
 ## <span style="color:#8c8b6e">🍑 About Me 🍑</span>
 
 - **名前**：もも
