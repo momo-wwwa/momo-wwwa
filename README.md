@@ -54,8 +54,8 @@
 ---
 
 ## <span style="color:#8c8b6e">🌐 Social Links</span>
-- [Twitter](https://twitter.com/username) - 開発進捗を発信中
-//- [LinkedIn](https://linkedin.com/in/username) - プロフェッショナルなつながりを募集中
+- [Twitter](https://x.com/momo_wwwa) - 開発進捗を発信中
+- [LinkedIn](https://linkedin.com/in/username) - プロフェッショナルなつながりを募集中
 
 ---
 
