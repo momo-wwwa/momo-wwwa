@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 My Skills</span>
+## <span style="color:#8c8b6e">🛠 My Skills</span>
 
 ### <span style="color:#8c8b6e">💻 Programming Languages, Frameworks, and Tools</span>
 <div align="center" style="background-color:#fbf4d1; padding:10px; border-radius:8px;">
