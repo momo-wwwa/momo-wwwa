@@ -36,14 +36,14 @@
 
 ## <span style="color:#8c8b6e">🚀 Projects and Accomplishments</span>
 
-- **[Othello Game](https://github.com/momo-wwwa/othello)** - Unityを使用したオセロゲームの開発
-- **[Salary Management System](https://github.com/momo-wwwa/salary-management)** - ASP.NETを用いた給与管理システム
+- **[間違い探し3D～魔法使いの部屋～](https://github.com/momo-wwwa/Sorcerer_Matigaisagashi)** - Unityを使用した3D間違い探しのゲーム開発
+- **[カレンダーアプリ](https://github.com/momo-wwwa/Calendar)** - javaを用いたカレンダーアプリ
 
 ---
 
 ## <span style="color:#8c8b6e">🌐 Social Links</span>
 - [Twitter](https://twitter.com/username) - 開発進捗を発信中
-- [LinkedIn](https://linkedin.com/in/username) - プロフェッショナルなつながりを募集中
+//- [LinkedIn](https://linkedin.com/in/username) - プロフェッショナルなつながりを募集中
 
 ---
 
