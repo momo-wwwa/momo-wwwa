@@ -1,6 +1,7 @@
 # <span style="color:#8c8b6e">momo-wwwa's GitHub Profile</span>
 <div align="center">
-    <img src="https://github.com/momo-wwwa/momo-wwwa/blob/image/186f837fe6d5f15c.png" height="0" width="600px" />    
+    <img src="https://github.com/momo-wwwa/momo-wwwa/raw/ff9199c15677c2c46d17fb177762534f966356ea/186f837fe6d5f15c.png" height="0" width="600px" />
+   
 </div>
 
 ## 📑 Table of Contents
