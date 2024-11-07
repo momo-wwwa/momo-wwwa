@@ -1,7 +1,7 @@
 # <span style="color:#8c8b6e">momo-wwwa's GitHub Profile</span>
-<div align="center">
+
 ![名称未設定のデザイン (3)](https://github.com/user-attachments/assets/eddfd5a2-c116-427f-956e-44a43fceb453)
-</div>
+
 
 ## 📑 Table of Contents
 - [🍑 About Me 🍑](#-about-me-)
