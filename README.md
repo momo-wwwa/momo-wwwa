@@ -19,7 +19,7 @@
 
 - **名前**：もも
 - **目標**：システムエンジニアを目指し、技術を磨き中
-- **趣味**：ゲーム開発、CG制作、プログラミング
+- **趣味**：webアプリ開発、ゲーム開発、CG制作
 
 ---
 
@@ -54,9 +54,8 @@
 
 ## <span style="color:#8c8b6e">🌐 Social Links</span>
 - [X](https://x.com/momo_wwwa) - 開発進捗を発信中
-- [LinkedIn](https://linkedin.com/in/username) - プロフェッショナルなつながりを募集中
 
 ---
 
 ## <span style="color:#8c8b6e">📬 Contact Me</span>
-お気軽に [momo@example.com](mailto:momo@example.com) までご連絡ください！
+お気軽に [momone1191@gmail.com](mailto:momone1191@gmail.com) までご連絡ください！
