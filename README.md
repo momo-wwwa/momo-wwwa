@@ -1,4 +1,4 @@
-# <span style="color:#8c8b6e">momo-wwwa's GitHub Profile</span>
+<!--# <span style="color:#8c8b6e">momo-wwwa's GitHub Profile</span>
 
 ![名称未設定のデザイン (3)](https://github.com/user-attachments/assets/eddfd5a2-c116-427f-956e-44a43fceb453)
 
@@ -35,8 +35,7 @@
     <img src="https://skillicons.dev/icons?i=react,firebase,typescript,github" /> 
 </div>
 
----
-
+-->
 ## <span style="color:#8c8b6e">📈 My GitHub Activity</span>
 
 ![momo-wwwa GitHub stats](https://github-readme-stats.vercel.app/api?username=momo-wwwa&show_icons=true&theme=vue-dark&bg_color=fbf4d1&title_color=8c8b6e&icon_color=fbb29c&text_color=8c8b6e)　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momo-wwwa&layout=compact&theme=vue-dark&bg_color=fbf4d1&title_color=8c8b6e&icon_color=fbb29c&text_color=8c8b6e)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,7 +44,7 @@
 
 ---
 
-## <span style="color:#8c8b6e">🚀 Projects and Accomplishments</span>
+<!--## <span style="color:#8c8b6e">🚀 Projects and Accomplishments</span>
 
 - **[間違い探し3D～魔法使いの部屋～](https://github.com/momo-wwwa/Sorcerer_Matigaisagashi)** - Unityを使用した3D間違い探しのゲーム開発
 - **[カレンダーアプリ](https://github.com/momo-wwwa/Calendar)** - javaを用いたカレンダーアプリ
@@ -58,4 +57,4 @@
 ---
 
 ## <span style="color:#8c8b6e">📬 Contact Me</span>
-お気軽に [momone1191@gmail.com](mailto:momone1191@gmail.com) までご連絡ください！
+お気軽に [momone1191@gmail.com](mailto:momone1191@gmail.com) までご連絡ください！ -->
